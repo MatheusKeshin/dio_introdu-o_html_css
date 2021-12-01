@@ -1,0 +1,33 @@
+#title, .subtitle, .post_title{
+    color: blue;
+    text-transform: uppercase;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.perfil{
+    border-radius: 100%;
+    border: solid black;
+    inline-block: 1px;
+}
+
+body{
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article{
+    border: 3px solid black;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+#contato{
+    list-style-type: none;
+}
